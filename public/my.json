@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 33,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Conservative peer Michelle Mone to take leave of absence from Lords - BBC",
+            "description": "Baroness Mone has been linked to PPE Medpro, which won government Covid contracts.",
+            "url": "https://www.bbc.com/news/uk-politics-63871448",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1695E/production/_127901529_976_mone_pa.jpg",
+            "publishedAt": "2022-12-06T12:21:37Z",
+            "content": "Tory peer Michelle Mone is taking a leave of absence from the Lords \"to clear her name of the allegations that have been unjustly levelled against her\", her spokesman has said. \r\nIt means she will no… [+3862 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "TV Rain: Latvia shuts down Russian broadcaster over Ukraine war coverage - BBC",
+            "description": "The channel has been accused of showing content that supports Moscow's invasion of Ukraine.",
+            "url": "https://www.bbc.com/news/world-europe-63871289",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/AFCE/production/_125960054_26075830-8934-414f-a0eb-da6dc627b68d.jpg",
+            "publishedAt": "2022-12-06T11:22:20Z",
+            "content": "Russia's last independent television channel, TV Rain, has been shut down in Latvia after less than five months on air. \r\nThe channel, which is known as Dozhd in Russian, has been accused of showing … [+1833 chars]"
+        },
+        {
+            "source": {
+                "id": "financial-times",
+                "name": "Financial Times"
+            },
+            "author": "Hannah Murphy, Cristina Criddle",
+            "title": "Meta told to overhaul moderation system for high-profile users such as Donald Trump - Financial Times",
+            "description": "Facebook parent company’s ‘oversight board’ accuses group of leaving dangerous content online to serve business interests",
+            "url": "https://www.ft.com/content/73d865e2-68fc-4309-af7f-b44048800d5a",
+            "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fe7ce32fc-3510-46e9-8242-19691002b008.jpg?source=next-opengraph&fit=scale-down&width=900",
+            "publishedAt": "2022-12-06T11:05:49Z",
+            "content": "Meta has been told its treatment of high-profile users, such as former US president Donald Trump, left dangerous content online, serving business interests at the expense of its human rights obligati… [+4136 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Trump digs deeper hole with Constitution comments - The Hill",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiYGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vMzc2MjY3Ny10cnVtcC1kaWdzLWRlZXBlci1ob2xlLXdpdGgtY29uc3RpdHV0aW9uLWNvbW1lbnRzL9IBZGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3MvY2FtcGFpZ24vMzc2MjY3Ny10cnVtcC1kaWdzLWRlZXBlci1ob2xlLXdpdGgtY29uc3RpdHV0aW9uLWNvbW1lbnRzL2FtcC8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-12-06T11:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Indonesia passes criminal code banning sex outside marriage - BBC",
+            "description": "The new laws will disproportionately punish women, LGBT people and religious minorities, critics say.",
+            "url": "https://www.bbc.com/news/world-asia-63869078",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1451E/production/_127903238_indonesiaprotest-index-reuters.jpg",
+            "publishedAt": "2022-12-06T10:25:53Z",
+            "content": "Indonesia's parliament has approved a new criminal code that bans anyone in the country from having extramarital sex and restricts political freedoms.\r\nSex outside marriage will carry a jail term of … [+5982 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NBCSports.com"
+            },
+            "author": "Michael David Smith",
+            "title": "Week 14 NFL playoff picture: Buccaneers take big step toward winning NFC South - NBC Sports",
+            "description": "Someone has to win the NFC South, and after Monday night, it will almost certainly be the Buccaneers.The 6-6 Bucs haven’t had a good season, but their 17-16 comeback win over the Saints on Monday night gives them a 1.5-game lead over the Falcons in the NFC So…",
+            "url": "https://profootballtalk.nbcsports.com/2022/12/06/week-14-nfl-playoff-picture-buccaneers-take-big-step-toward-winning-nfc-south/",
+            "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/12/GettyImages-1245404128-e1670322119900.jpg",
+            "publishedAt": "2022-12-06T10:22:00Z",
+            "content": "Someone has to win the NFC South, and after Monday night, it will almost certainly be the Buccaneers.\r\nThe 6-6 Bucs havent had a good season, but their 17-16 comeback win over the Saints on Monday ni… [+1501 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Bryan Pietsch",
+            "title": "Hertz to pay $168 million to settle lawsuits over false arrests - The Washington Post",
+            "description": "The settlement came after some customers spent weeks or months in jail because Hertz made false theft reports.",
+            "url": "https://www.washingtonpost.com/business/2022/12/06/hertz-settlement-false-arrests-lawsuit/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/XJUWX7TALYI63IJR5EAOJJRTNM.jpg&w=1440",
+            "publishedAt": "2022-12-06T08:36:00Z",
+            "content": "Comment on this story\r\nHertz said Monday it will pay $168 million to settle hundreds of claims by customers who were falsely reported by the rental car company as having stolen its vehicles, with som… [+2642 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "MLB rumors: Cubs pursuing several stars; Justin Verlander, Trea Turner start Winter Meetings with a bang - CBS Sports",
+            "description": "Here's the latest from the MLB hot stove",
+            "url": "https://www.cbssports.com/mlb/news/mlb-rumors-cubs-pursuing-several-stars-justin-verlander-trea-turner-start-winter-meetings-with-a-bang/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/12/06/70727823-4cfc-4ff1-9fb0-09bf317930f7/thumbnail/1200x675/2d7a15431cf79aff786d42a7fe4dfc74/sean-murphy-as-getty.jpg",
+            "publishedAt": "2022-12-06T06:51:00Z",
+            "content": "Major League Baseball's annual Winter Meetings kicked off Sunday with the news that Fred McGriff was inducted into the Hall of Fame via the Contemporary Era Committee. The hope is that was the beginn… [+8789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SamMobile"
+            },
+            "author": "SamMobile, Asif Iqbal Shaik",
+            "title": "Samsung releases December 2022 security update, starting with Galaxy S20 - SamMobile - Samsung news",
+            "description": "Since Samsung was so focused on rolling out the Android 13 update, it delayed the release of the December 2022 ...",
+            "url": "https://www.sammobile.com/news/samsung-galaxy-s20-december-2022-security-update-released/",
+            "urlToImage": "https://www.sammobile.com/wp-content/uploads/2020/03/Galaxy-S20-Plus-review-13-720x404.jpg",
+            "publishedAt": "2022-12-06T06:49:00Z",
+            "content": "Since Samsung was so focused on rolling out the Android 13 update, it delayed the release of the December 2022 security update by a few days. However, the company has now started rolling out the new … [+1214 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Ariane de Vogue",
+            "title": "Alito's mentions of Ashley Madison and children wearing KKK costumes cap an awkward Supreme Court day - CNN",
+            "description": "As the Supreme Court gathered for more than two hours on Monday to discuss whether a graphic designer can refuse to do business with same-sex couples, the justices somehow strayed into dueling hypotheticals concerning Black and White Santas and dating website…",
+            "url": "https://www.cnn.com/2022/12/05/politics/black-white-santa-alito-jackson-kagan-ashley-madison/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221205124713-alito-kbj-kagan-split.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-06T06:47:00Z",
+            "content": "As the Supreme Court gathered for more than two hours on Monday to discuss whether a graphic designer can refuse to do business with same-sex couples, the justices somehow strayed into dueling hypoth… [+4341 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Dan Heching, Amy Simonson, Taylor Romine",
+            "title": "Kirstie Alley, 'Cheers' and 'Veronica's Closet' star, dead at 71 - CNN",
+            "description": "Actress Kirstie Alley, star of the big and small screens known for her Emmy-winning role on \"Cheers\" and films like \"Look Who's Talking,\" has died after a brief battle with cancer, her children True and Lillie Parker announced on her social media.",
+            "url": "https://www.cnn.com/2022/12/05/entertainment/kirstie-alley-obit/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221205172141-kirstie-alley-2005.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-06T06:42:00Z",
+            "content": "Actress Kirstie Alley, star of the big and small screens known for her Emmy-winning role on Cheers and films like Look Whos Talking, has died after a brief battle with cancer, her children True and L… [+5660 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Silvia Amaro",
+            "title": "Russian oil cap will work, EU ministers insist, despite Kremlin opposition and broad skepticism - CNBC",
+            "description": "It is \"the right message at the right time,\" Irish Finance Minister Paschal Donohoe said of the oil price cap. But many market participants remain wary.",
+            "url": "https://www.cnbc.com/2022/12/06/russian-oil-cap-eu-ministers-insist-itll-work-despite-kremlins-opposition.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107161092-1670256432593-gettyimages-1228078404-RUSSIA_OIL_JACKS.jpeg?v=1670307687&w=1920&h=1080",
+            "publishedAt": "2022-12-06T06:21:27Z",
+            "content": "BRUSSELS A price cap on Russian seaborne oil will work, EU ministers told CNBC, despite attempts from the Kremlin to escape sanctions and a broad market skepticism over the measure.\r\nThe EU, alongsid… [+3331 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Reporter describes 'rare' behavior from Xi at former leader's memorial - CNN",
+            "description": "At the Great Hall of the People in central Beijing, Chinese leader Xi Jinping led thousands of China's Communist Party, state and military elites to pay final tribute to former leader Jiang Zemin, who died at the age of 96. Previously, Xi and former president…",
+            "url": "https://www.cnn.com/videos/world/2022/12/06/china-jiang-zemin-funeral-hu-jintao-xi-jinping-jiang-ovn-intl-hnk-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221206140022-screengrab-xi-jiang-widow.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-06T06:20:05Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sports Illustrated"
+            },
+            "author": "Nick Selbe",
+            "title": "Tom Brady Unleashes NSFW Reaction to Comeback Win on Live TV - Sports Illustrated",
+            "description": "That’s a dollar in the swear jar, Tom.",
+            "url": "https://www.si.com/extra-mustard/2022/12/06/tom-brady-reaction-comeback-win-saints",
+            "urlToImage": "https://www.si.com/.image/t_share/MTk0MjQ1MjczNzk3NTM1MjM3/tom-brady.jpg",
+            "publishedAt": "2022-12-06T05:52:23Z",
+            "content": "At this rate, Tom Brady is going to be facing a hefty fine from the FCC.\r\nThat’s because with each thrilling win, Brady just can’t seem to keep those dirty words out of his mouth (or out of earshot o… [+1291 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "SciTechDaily"
+            },
+            "author": null,
+            "title": "Surprising Martian Discovery: Massive Mantle Plume Pushing the Surface of Mars Upward - SciTechDaily",
+            "description": "Giant Mantle Plume Reveals Mars Is More Active Than Previously Thought Orbital observations unveil the presence of an enormous mantle plume pushing the surface of Mars upward and driving intense volcanic and seismic activity. On Earth, shifting tectonic plate…",
+            "url": "https://scitechdaily.com/surprising-martian-discovery-massive-mantle-plume-pushing-the-surface-of-mars-upward/",
+            "urlToImage": "https://scitechdaily.com/images/Mantle-Plume-on-Mars.jpg",
+            "publishedAt": "2022-12-06T05:00:18Z",
+            "content": "ByUniversity of ArizonaDecember 5, 2022\r\nArtists impression of an active mantle plume a large blob of warm and buoyant rock rising from deep inside Mars and pushing up Elysium Planitia, a plain withi… [+9378 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tim Lister, Josh Pennington, Maria Kostenko",
+            "title": "Attacks on Russian air bases put spotlight on new Ukrainian drone program - CNN",
+            "description": "Explosions at two Russian air bases Monday have focused attention on Ukraine's efforts to develop longer-range combat drones.",
+            "url": "https://www.cnn.com/2022/12/05/europe/ukraine-drone-russia-air-base-attacks-intl/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221205160128-engels-russia-explosion.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-12-06T02:57:00Z",
+            "content": "Explosions at two Russian air bases Monday have focused attention on Ukraines efforts to develop longer-range combat drones.\r\nThe Russian Defense Ministry says the attacks were carried out by Ukraini… [+2771 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Investor's Business Daily"
+            },
+            "author": "Investor's Business Daily",
+            "title": "Dow Jones Dives 480 Points As Investors Fear Fed Rate Hikes Into 2023 - Investor's Business Daily",
+            "description": "Futures were little changed after the Dow Jones Industrial Average dived 482 points.",
+            "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-dives-as-investors-fear-more-fed-rate-hikes-into-2023-tesla-stock-plunges-on-production-cut-reports/",
+            "urlToImage": "https://www.investors.com/wp-content/uploads/2019/03/stock-Tesla-sign-02-shutter.jpg",
+            "publishedAt": "2022-12-06T01:57:00Z",
+            "content": "Dow Jones futures were higher ahead of Tuesday's open after the Dow Jones Industrial Average sold off more than 480 points Monday. Tesla stock dived after multiple reports said Tesla is planning to c… [+7448 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Mary Ilyushina, Jeff Stein, David L. Stern",
+            "title": "Explosions hit two bases in Russia as Moscow fires new missile barrage - The Washington Post",
+            "description": "Strikes on the Engels base in Saratov and the Dyagilevo base in Ryazan, where strategic bombers are stationed, marked Kyiv's most dramatic strike on Russian soil",
+            "url": "https://www.washingtonpost.com/world/2022/12/05/explosions-hit-two-bases-russia-moscow-fires-new-missile-barrage/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/A4XQEHYCQMRBCW7GTMWJC4W5C4.JPG&w=1440",
+            "publishedAt": "2022-12-06T01:23:00Z",
+            "content": "Comment on this story\r\nRIGA, Latvia Blasts rocked two military installations deep inside Russia on Monday, including an airfield that served as a base for bombers allegedly used in Moscows relentless… [+9126 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. Army awards Black Hawk replacement contract to Textron's Bell - Reuters.com",
+            "description": "The U.S. Army on Monday awarded the contract for its next-generation helicopter to Textron Inc's <a href=\"https://www.reuters.com/companies/TXT.N\" target=\"_blank\">(TXT.N)</a> Bell unit, ending a years-long competition for the technology that will replace the …",
+            "url": "https://www.reuters.com/business/aerospace-defense/us-army-awards-contract-textron-next-generation-helicopter-2022-12-05/",
+            "urlToImage": "https://www.reuters.com/resizer/Plf7LHELZ9f2i1cZ2dALbrK96-A=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/EZJAUOCE4FJGZN3NKE3O5BNSSI.jpg",
+            "publishedAt": "2022-12-06T01:22:00Z",
+            "content": "WASHINGTON, Dec 5 (Reuters) - The U.S. Army on Monday awarded the contract for its next-generation helicopter to Textron Inc's (TXT.N) Bell unit, ending a years-long competition for the technology th… [+2103 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Sian Cain",
+            "title": "ABC News pulls hosts TJ Holmes and Amy Robach off air after romance revealed - The Guardian",
+            "description": "US network says the anchors, who are married to other people, will be temporarily pulled from GMA3 as their romance is ‘an internal and an external distraction’",
+            "url": "https://www.theguardian.com/media/2022/dec/06/abc-news-pulls-hosts-tj-holmes-and-amy-robach-off-air-after-romance-revealed",
+            "urlToImage": "https://i.guim.co.uk/img/media/5b34634e3042f0ed3c94d4dd976aaf9f0230cdad/269_254_3913_2348/master/3913.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=ea096398ad25275b4832cfad8d9d3bd3",
+            "publishedAt": "2022-12-06T00:30:00Z",
+            "content": "Two TV anchors working for ABC News in the US have been pulled from air after their workplace romance came to light, amid a storm of public gossip and tabloid coverage.\r\nTJ Holmes and Amy Robach, who… [+2298 chars]"
+        }
+    ]
+}
