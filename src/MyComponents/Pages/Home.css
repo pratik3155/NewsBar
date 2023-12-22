@@ -1,6 +1,18 @@
 /* Define styles for Home.js */
+
+
 .home-container {
-    display: flex;
+
+  background-image: url('../Background.jpg'); 
+  background-size: cover;
+  background-position: middle;
+  height: 500vh; /* Adjust height based on your requirement */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; 
+  
+ display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;

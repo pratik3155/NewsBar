@@ -1,4 +1,4 @@
-import React, { useState , useContext } from 'react';
+import React, { useState, useContext } from 'react';
 import axios from 'axios';
 import { Link, useNavigate } from 'react-router-dom';
 import { AuthContext } from '../AuthContext'; 
@@ -21,12 +21,18 @@ const Signin = () => {
         password,
       });
 
-      console.log(response.data.message);
-      // Redirect to Newscontent if registration is successful
-      navigate('/login');
-      alert("user created sucessfully")
+      // Handle different registration scenarios with alerts
+      if (response.status === 201) {
+        alert('User created successfully!');
+        navigate('/login'); // Redirect to Login on successful registration
+      } else if (response.status === 400) {
+        alert('User already exists. Please log in.');
+        navigate('/login'); // Redirect to Login if user already exists
+      } else {
+        alert('Registration failed. Please try again.');
+      }
     } catch (error) {
-      console.error('Error during registration:', error);
+      alert('Error during registration:', error);
       // Handle errors or show appropriate messages to the user
     }
   };

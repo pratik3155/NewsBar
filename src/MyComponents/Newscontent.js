@@ -9,15 +9,21 @@ const Newscontent = (props) => {
   const [loading, setLoading] = useState(true);
   const [page, setPage] = useState(1);
   const [totalResults, setTotalResults] = useState(0);
+  const [selectedCategory, setSelectedCategory] = useState('general');
 
   const capiTalize = (string) => {
     return string.charAt(0).toUpperCase() + string.slice(1);
   };
 
+  const handleCategoryChange = (e) => {
+    setSelectedCategory(e.target.value);
+    setPage(1); // Reset page number when changing the category
+  };
+
   const updateNews = async () => {
     setLoading(true);
     try {
-      const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&page=${page}&pageSize=${props.pageSize}&apiKey=f8f99d244c6141b1b6e23cf607f3c99f`;
+      const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${selectedCategory}&page=${page}&pageSize=${props.pageSize}&apiKey=f8f99d244c6141b1b6e23cf607f3c99f`;
       const data = await fetch(url);
       const parsedData = await data.json();
       setArticles(parsedData.articles);
@@ -37,7 +43,7 @@ const Newscontent = (props) => {
   const fetchMoreData = async () => {
     try {
       const nextPage = page + 1;
-      const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${props.category}&page=${nextPage}&pageSize=${props.pageSize}&apiKey=f8f99d244c6141b1b6e23cf607f3c99f`;
+      const url = `https://newsapi.org/v2/top-headlines?country=${props.country}&category=${selectedCategory}&page=${nextPage}&pageSize=${props.pageSize}&apiKey=f8f99d244c6141b1b6e23cf607f3c99f`;
       const data = await fetch(url);
       const parsedData = await data.json();
       setArticles([...articles, ...parsedData.articles]);
@@ -51,8 +57,24 @@ const Newscontent = (props) => {
   return (
     <>
       <h1 className="text-center bg-dark text-info" style={{ marginTop: "70px" }}>
-        NewsMonkey: Top Headlines in {capiTalize(props.category)}
+        NewsMonkey: Top Headlines in {capiTalize(selectedCategory)}
       </h1>
+      <div className="d-flex justify-content-center mt-3">
+        <select
+          className="form-select w-auto"
+          value={selectedCategory}
+          onChange={handleCategoryChange}
+         
+        >
+          <option value="business">Business</option>
+          <option value="entertainment">Entertainment</option>
+          <option value="general">General</option>
+          <option value="health">Health</option>
+          <option value="science">Science</option>
+          <option value="sports">Sports</option>
+          <option value="technology">Technology</option>
+        </select>
+      </div>
       {loading && <Spinner />}
       <InfiniteScroll
         dataLength={articles.length}

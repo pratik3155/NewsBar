@@ -1,4 +1,4 @@
-import React, { useState , useContext } from 'react';
+import React, { useState, useContext } from 'react';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom';
 import { AuthContext } from '../AuthContext';
@@ -18,9 +18,17 @@ const Login = () => {
       });
       login(email, password);
       console.log(response.data); // Handle successful login
+      alert('Login successful!');
       navigate('/newscontent');
     } catch (error) {
       console.error('Login error:', error.response.data.message);
+      alert('Login unsuccessful. Please check your credentials.');
+
+      // Redirect to signin page if user is not registered
+      if (error.response.status === 404) {
+        navigate('/signin');
+       
+      }
     }
   };
 
