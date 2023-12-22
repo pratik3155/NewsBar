@@ -1,0 +1,50 @@
+/* Define styles for Home.js */
+
+
+.home-container {
+
+  background-image: url('../Background.jpg'); 
+  background-size: cover;
+  background-position: middle;
+  height: 500vh; /* Adjust height based on your requirement */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #fff; 
+  
+ display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 80vh;
+  }
+  
+  .home-content {
+    text-align: center;
+  }
+  
+  .home-options {
+    margin-top: 20px;
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+  }
+  
+  .button {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f11946;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button:hover {
+    background-color: #d6173a;
+  }
+  
